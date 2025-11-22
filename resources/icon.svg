@@ -1,0 +1,8 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" rx="200" fill="#0F172A"/>
+  <g transform="translate(150,200)">
+    <text font-family="Arial Black, sans-serif" font-size="480" fill="#00D4FF" font-weight="900">SKY</text>
+    <text x="0" y="140" font-family="Arial, sans-serif" font-size="180" fill="#00D4FF" font-weight="bold">BRASIL</text>
+    <path d="M0,180 Q 320,280 640,180" stroke="#00D4FF" stroke-width="40" fill="none"/>
+  </g>
+</svg>
