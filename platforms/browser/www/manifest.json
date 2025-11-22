@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Sky Brasil App",
+  "short_name": "Sky Brasil App",
+  "version": "com.skybrasil.agency",
+  "description": "App oficial da Sky Brasil Agency",
+  "author": "Sky Brasil",
+  "icons": [],
+  "start_url": "index.html"
+}
