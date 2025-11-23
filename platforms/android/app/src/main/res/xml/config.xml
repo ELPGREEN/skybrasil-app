@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.skybrasil.agency" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="SQLitePlugin">
+        <param name="android-package" value="io.sqlc.SQLitePlugin" />
+    </feature>
+    <name>Sky Brasil App</name>
+    <description>App oficial da Sky Brasil Agency</description>
+    <author email="contato@skybrasil.com">Sky Brasil</author>
+    <content src="index.html" />
+    <icon src="resources/android/icon/logo.png" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="AndroidWindowSplashScreenBackground" value="#050A1A" />
+    <preference name="AndroidWindowSplashScreenAnimatedIcon" value="resources/android/splash/logo.png" />
+    <preference name="AndroidWindowSplashScreenAnimationDuration" value="1200" />
+    <preference name="AutoHideSplashScreen" value="true" />
+    <preference name="SplashScreenDelay" value="3000" />
+</widget>
