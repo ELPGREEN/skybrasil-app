@@ -21,8 +21,8 @@
   "cordova": {
     "platforms": [
       "browser",
-      "android",
-      "ios"
+      "ios",
+      "android"
     ],
     "plugins": {
       "cordova-sqlite-storage": {}
